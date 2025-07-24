@@ -15,7 +15,7 @@ O personagem é carregado a partir de um spritesheet e pode ser movido em quatro
 1. Certifique-se de ter a **SFML** instalada corretamente em sua IDE (ex: Visual Studio).
 2. Baixe ou clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/andarilho.git
+   git clone https://github.com/Davi7071/Estudo-de-SFML-e-Cpp
    ```
 3. Verifique se o caminho da textura (`spritesheet.png`) está correto:
    (Altere o caminho se necessário.)
